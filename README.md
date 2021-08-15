@@ -54,3 +54,6 @@ Using the `to_sql` method, we connected Python to PostgreSQL to import our DataF
 <p align="center">
   <img width="860" height="350" src="https://user-images.githubusercontent.com/74840026/129465169-41efccc5-48e3-4b88-af53-0ef4eb56751c.PNG">
 </p>
+
+# Summary
+We were successful in creating one function to perform the ETL process and create two databases with over 260 million entries combined.  
